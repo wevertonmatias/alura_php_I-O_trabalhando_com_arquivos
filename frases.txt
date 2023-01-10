@@ -4,4 +4,6 @@ Nunc luctus mauris eu nisl mattis ornare a ac tellus. Nunc nec dignissim odio, v
 Nullam pharetra pretium Lorem blandit. Morbi aliquam tortor sit amet urna dapibus, a viverra nibh efficitur.
 Phasellus lobortis odio in mi pulvinar molestie.
 Vestibulum ante ipsum primis in Lorem faucibus orci luctus et ultrices posuere cubilia curae;
-Morbi nec sagittis turpis, non fermentum turpis. Nulla cursus felis eget justo placerat, a congue urna accumsan.
+Morbi nec sagittis turpis, non fermentum turpis. Nulla cursus felis eget justo placerat, a congue urna accumsan./nnova frase teste
+nova frase no console
+outra frase no console
