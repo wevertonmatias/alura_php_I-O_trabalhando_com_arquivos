@@ -4,8 +4,7 @@ $contexto = stream_context_create([
    'http' => [
        'method' => 'POST',
        'content' => 'Teste do corpo da requisicao',
-        'header' => "X-from: PHP\r\n" .
-                    "content-type: text/plain"
+        'header' => ["X-from: PHP","content-type: text/plain"]
    ]
 ]);
 
